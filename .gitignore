@@ -1,0 +1,7 @@
+/apitool/packages
+/apitool/*.suo
+/apitool/uoapi/*.suo
+/apitool/uoapi/bin/Debug
+/apitool/uoapi/bin/Release
+/apitool/uoapi/obj/Debug
+/apitool/uoapi/obj/Release
