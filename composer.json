@@ -1,5 +1,6 @@
 {
 	"require": {
-		"ext-mongo": "*"
+		"ext-mongo": "*",
+		"ext-redis": "*"
 	}
 }
